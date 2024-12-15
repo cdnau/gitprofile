@@ -237,7 +237,7 @@ interface Education {
   to: string;
 }
 
-interface Publication {
+interface Achieve {
   title: string;
   conferenceName?: string;
   journalName?: string;
